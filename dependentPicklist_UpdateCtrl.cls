@@ -1,6 +1,6 @@
-public class dependentPicklist_UpdateCtrl {
+public class dependentPicklistController {
     @AuraEnabled 
-    public static Map<String, List<String>> getDependentMap(sObject objDetail, string contrfieldApiName,string depfieldApiName) {
+    public static Map<String, List<String>> getDependentPicklistMap(sObject objDetail, string contrfieldApiName, string depfieldApiName) {
         String controllingField = contrfieldApiName.toLowerCase();
         String dependentField = depfieldApiName.toLowerCase();
         

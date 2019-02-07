@@ -1,5 +1,5 @@
 ## Lightning components as reusable services—or service components
-* 
+* [Setup Picklist field dependency](http://sfdcmonkey.com/2018/08/31/dependent-picklist-lightningselect-lightning-salesforce/)
 
 ## User Story
 * [sign-up page](https://docs.google.com/document/d/1jn4VuSM9SvGvlLMda-BPHaRLfl7tNKWAycNpPbAzn4E/edit?ts=5c58a4a5#)
