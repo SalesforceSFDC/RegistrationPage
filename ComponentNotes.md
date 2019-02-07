@@ -49,3 +49,10 @@
 
 * [Customer Community Plus License FAQ](https://help.salesforce.com/articleView?id=000206085&type=1)
 * [Site Class](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_sites.htm)
+* all community and portal users created in a Salesforce org have to be associated with an account, whether they’re business accounts or person accounts. 
+### Flow
+* Allow external users to self-register 
+* sObject variable, which stores updatable field values for a Salesforce record.
+* initial element to look up the user’s information
+* adds a Record Lookup element to connect the information to the Registrants account.
+* 
