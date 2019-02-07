@@ -46,3 +46,6 @@
 * When a value is assigned to the recordId attribute, behind the scenes, Lightning Data Service retrieves either the entire record or the requested fields. 
 * The resulting fields are stored in the attribute defined by the targetFields attribute; in this case, propertyRecord
 * the mode attribute defines whether or not this instance of force:recordData is in VIEW mode or EDIT mode
+
+* [Customer Community Plus License FAQ](https://help.salesforce.com/articleView?id=000206085&type=1)
+* [Site Class](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_sites.htm)
